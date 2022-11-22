@@ -67,3 +67,5 @@ p2m-cmdline.h
 
 .vscode
 node_modules
+
+logs/
